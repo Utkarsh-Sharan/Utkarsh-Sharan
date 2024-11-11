@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
     1. LinkedIn: www.linkedin.com/in/utkarsh-sharan9913
     2. Portfolio: https://utkarshsharan99.wixsite.com/gamefolio
-    3. Resume: [https://drive.google.com/file/d/1LI8jP3xcEGHoCMelrj6uhLjiJLxP_-K5/view?usp=sharing](https://drive.google.com/file/d/1TIUQeYY9L76eVWcHlaTVSVJ2q_HujmS-/view?usp=sharing)
+    3. Resume: https://drive.google.com/file/d/1BITflysiLR2T8RQfVexWSg-cg-f1y86E/view?usp=sharing
 
 <!---
 Utkarsh-Sharan/Utkarsh-Sharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
