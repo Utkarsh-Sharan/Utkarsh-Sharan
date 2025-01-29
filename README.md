@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Utkarsh-Sharan
 - 👀 I’m interested in the field of Game Development
-- 🌱 I’m currently learning Unity Engine, C# and C++(with SFML)
+- 🌱 I have made various games with Unity Engine, C# and C++(with SFML)
 - 📫 How to reach me:
   
-    1. LinkedIn: www.linkedin.com/in/utkarsh-sharan9913
-    2. Portfolio: https://utkarshsharan99.wixsite.com/gamefolio
-    3. Resume: https://drive.google.com/file/d/1AM2fnmfRGWq6dxHIviQZ5VG-jUMg64p6/view?usp=sharing
+    1. LinkedIn  : www.linkedin.com/in/utkarsh-sharan9913
+    2. Portfolio : https://utkarshsharan99.wixsite.com/gamefolio
+    3. Resume    : https://drive.google.com/file/d/1IdySkqKiME-gnLOPBvn-M-qLbj8vI8Wf/view?usp=sharing
 
 <!---
 Utkarsh-Sharan/Utkarsh-Sharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
