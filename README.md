@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   
     1. LinkedIn  : www.linkedin.com/in/utkarsh-sharan9913
-    2. Portfolio : https://utkarshsharan99.wixsite.com/gamefolio
+    2. Portfolio : https://utkarshsharan99.wixsite.com/gamefolio/portfolio
     3. Resume    : https://drive.google.com/file/d/1IdySkqKiME-gnLOPBvn-M-qLbj8vI8Wf/view?usp=sharing
 
 <!---
