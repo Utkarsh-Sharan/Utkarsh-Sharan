@@ -5,7 +5,7 @@
   
     1. LinkedIn  : www.linkedin.com/in/utkarsh-sharan9913
     2. Portfolio : https://utkarshsharan99.wixsite.com/gamefolio/portfolio
-    3. Resume    : https://drive.google.com/file/d/1J6GibdXJNNHFAGM57u1n-PiVqK5ZliF8/view?usp=sharing
+    3. Resume    : https://drive.google.com/file/d/1tKXwwvpGCQKMlAMOUq1U_jlcf8ARlY4K/view?usp=sharing
 
 <!---
 Utkarsh-Sharan/Utkarsh-Sharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
