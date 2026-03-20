@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Utkarsh-Sharan
-- 👀 I’m interested in the field of Game Development
-- 🌱 I have made various games with Unity Engine, C# and C++(with SFML)
-- 📫 How to reach me:
-  
-    1. LinkedIn  : www.linkedin.com/in/utkarsh-sharan9913
-    2. Portfolio : https://utkarshsharan99.wixsite.com/gamefolio/portfolio
-    3. Resume    : https://drive.google.com/file/d/1AA_Lxj7P4uDYsBMj7DFsyVcWiZgEQLIF/view?usp=sharing
+👋 Hi, I’m @Utkarsh-Sharan  
+
+👀 I’m passionate about building dynamic, interactive, and user‑friendly web applications.  
+
+🌱 I specialize in **Frontend Development** with experience in:  
+- **React.js** and modern component design  
+- **Zustand** for state management  
+- **Material UI, Bootstrap, Swiper.js** for responsive UI  
+- **Axios** for API integration
+
+📫 How to reach me:  
+- **LinkedIn**: https://www.linkedin.com/in/utkarsh-sharan9913  
+- **Resume**: https://drive.google.com/file/d/1wovYNCbG52CvJYAEClzJzZX5M8N-0v7R/view?usp=sharing 
 
 <!---
 Utkarsh-Sharan/Utkarsh-Sharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
