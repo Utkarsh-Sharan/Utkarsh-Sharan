@@ -10,7 +10,7 @@
 
 📫 How to reach me:  
 - **LinkedIn**: https://www.linkedin.com/in/utkarsh-sharan9913  
-- **Resume**: https://drive.google.com/file/d/1L7IyEebjdWtSTajLjWZziM2BuO0e2WQV/view?usp=sharing
+- **Resume**: https://drive.google.com/file/d/1l26L-txAY9tScGr7TLz5jCoAyvlCiIjF/view?usp=sharing
 
 <!---
 Utkarsh-Sharan/Utkarsh-Sharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
